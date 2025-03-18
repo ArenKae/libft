@@ -25,7 +25,7 @@ Grade: 115/100
 int main(void)
 {
 	ft_example();
-    return (0);
+	return (0);
 }
 ```
 Compile the ``test.c`` file with the ft_printf library and run the program:
