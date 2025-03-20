@@ -7,9 +7,9 @@
 42 school's first project, libft, is about learning how the standard functions of C programming work, by coding them from scratch and creating our very own library. Libft is a  fundamental project, since this library will be used in future 42 school assignments.
 
 ## Status
-Finished 12/16/2022.
-
-Grade: 115/100
+✅ Completed on: 16/12/2022
+</br>
+🏆 Grade: 115/100
 
 ## Usage
 
